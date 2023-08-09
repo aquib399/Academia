@@ -24,7 +24,7 @@ Open your web browser and go to below link to see the web view
 http://localhost:3000
 ```
 
-`OR
+` OR
 `
 
 Go to Expo mobile app and scan the QR code provided in the terminal
