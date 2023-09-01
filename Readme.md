@@ -11,7 +11,7 @@ Unveil the application's potential through Expo, a versatile Android/IOS app tha
 ### NPM
 Leverage the power of NPM (Node Package Manager) to seamlessly integrate the Required Packages.
 
-`command: `
+`command:`
 ```bash
 npm install
 ```
